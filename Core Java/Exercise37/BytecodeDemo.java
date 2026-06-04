@@ -1,0 +1,8 @@
+package Exercise37;
+
+public class BytecodeDemo {
+
+    public int add(int a, int b) {
+        return a + b;
+    }
+}
